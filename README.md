@@ -9,7 +9,7 @@
 ### COMANDOS SOLO COPIA Y PEGA EN TERMUX `RECUERDA` COPIA DANDO CLICK EN EL CUADRITO DE LA DERECHA DEL COMANDO, TE SEGURARAS DE COPIARLO COMPLETO SIN ERRORES DE ESA FORMA
 
 ```
-pkg install git wget python zip -y ; termux-setup-storage
+apt update ; apt upgrade -y ; pkg install git wget python zip -y ; termux-setup-storage
 ```
 * Te pedira acceso tendras que darle en permitir, es importante para que la herramienta ponga tus mods y juego de forma automática en tu almacenamiento interno
 
